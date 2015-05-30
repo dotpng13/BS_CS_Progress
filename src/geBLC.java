@@ -40,57 +40,57 @@ public class geBLC {
     
     /**
      * Returns the General Education component of the geBLC code of this class.
-     * Throws a NullGeBLCComponentException if component does not exist.
+     * Throws a NullPointerException if component does not exist.
      * 
      * @return The General Education component of the geBLC code of this class.
-     * @throws NullGeBLCComponentException if component does not exist.
+     * @throws NullPointerException if component does not exist.
      */
-    public String getGenEd() throws NullGeBLCComponentException {
+    public String getGenEd() throws NullPointerException {
     	String genEd = geBLC.substring(0,1);
     	if (genEd.equals("-")) 
-    		throw new NullGeBLCComponentException();
+    		throw new NullPointerException();
     	return genEd;
     }
     
     /**
      * Returns the Breadth component of the geBLC code of this class.
-     * Throws a NullGeBLCComponentException if component does not exist.
+     * Throws a NullPointerException if component does not exist.
      * 
      * @return The Breadth component of the geBLC code of this class.
-     * @throws NullGeBLCComponentException if component does not exist.
+     * @throws NullPointerException if component does not exist.
      */
-    public String getBreadth() throws NullGeBLCComponentException {
+    public String getBreadth() throws NullPointerException {
     	String breadth = geBLC.substring(1,2);
     	if (breadth.equals("-")) 
-    		throw new NullGeBLCComponentException();
+    		throw new NullPointerException();
     	return breadth;
     }
     
     /**
      * Returns the Level component of the geBLC code of this class.
-     * Throws a NullGeBLCComponentException if component does not exist.
+     * Throws a NullPointerException if component does not exist.
      * 
      * @return The Level component of the geBLC code of this class.
-     * @throws NullGeBLCComponentException if component does not exist.
+     * @throws NullPointerException if component does not exist.
      */
-    public String getLevel() throws NullGeBLCComponentException {
+    public String getLevel() throws NullPointerException {
     	String level = geBLC.substring(2,3);
     	if (level.equals("-")) 
-    		throw new NullGeBLCComponentException();
+    		throw new NullPointerException();
     	return level;
     }
     
     /**
      * Returns the Credit component of the geBLC code of this class.
-     * Throws a NullGeBLCComponentException if component does not exist.
+     * Throws a NullPointerException if component does not exist.
      * 
      * @return The Credit component of the geBLC code of this class.
-     * @throws NullGeBLCComponentException if component does not exist.
+     * @throws NullPointerException if component does not exist.
      */
-    public String getCredit() throws NullGeBLCComponentException {
+    public String getCredit() throws NullPointerException {
     	String credit = geBLC.substring(3,4);
     	if (credit.equals("-")) 
-    		throw new NullGeBLCComponentException();
+    		throw new NullPointerException();
     	return credit;
     }
 }
