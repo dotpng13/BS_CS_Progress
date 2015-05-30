@@ -1,0 +1,20 @@
+//Term\Class ID\ge\B\L\C\Cr
+AP Calc BC\Math 221\r\N\I\C\5
+AP Calc BC\Math 222\r\N\I\C\4
+AP CS A\CS 302\r\N\I\C\3
+AP Phy C: M\Phy 201/207\r\P\I\C\5
+Fall '14\CS 367\r\N\I\C\3
+Fall '14\Eng 169\b\L\E\C\4
+Fall '14\LSC 100\a\-\E\C\3
+Fall '14\Math 375\-\-\A\C\5
+Spring '15\Eng 142\-\L\E\C\3
+Spring '15\Geosci 115\-\-\E\C\1
+Spring '15\His 249\-\Z\I\C\4
+Spring '15\Math 376\-\N\A\C\5
+Spring '15\Music 42\-\-\-\-\1
+Fall '15\Anthro 104\e\S\E\C\3
+Fall '15\Com Arts 200\-\Z\E\C\3
+Fall '15\CS 240\-\N\I\C\3
+Fall '15\CS 252\-\-\E\C\2
+Fall '15\Geosci 117\-\B\E\C\2
+Fall '15\Music 42\-\-\-\-\1

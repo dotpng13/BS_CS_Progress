@@ -1,0 +1,64 @@
+CS 240\Basic CS
+CS 302\Basic CS
+CS 352\Basic CS
+CS 354\Basic CS
+CS 367\Basic CS
+Math 221\Basic Calc
+Math 222\Basic Calc
+CS 412\Addt'l Math
+CS 416\Addt'l Math
+CS 435\Addt'l Math
+CS 513\Addt'l Math
+CS 514\Addt'l Math
+CS 515\Addt'l Math
+CS 525\Addt'l Math
+CS 526\Addt'l Math
+ECE 331\Addt'l Math
+Math 234\Addt'l Math
+Math 309\Addt'l Math
+Math 319\Addt'l Math
+Math 320\Addt'l Math
+Math 321\Addt'l Math
+Math 322\Addt'l Math
+Math 331\Addt'l Math
+Math 340\Addt'l Math
+Math 375\Addt'l Math
+Math 376\Addt'l Math
+Math 419\Addt'l Math
+Math 431\Addt'l Math
+Math 443\Addt'l Math
+Math 461\Addt'l Math
+Math 475\Addt'l Math
+Math 521\Addt'l Math
+Math 541\Addt'l Math
+Math 542\Addt'l Math
+Math 567\Addt'l Math
+Math 571\Addt'l Math
+Stat 309\Addt'l Math
+Stat 310\Addt'l Math
+Stat 311\Addt'l Math
+Stat 312\Addt'l Math
+CS 520\Adv CS: Theory
+CS 577\Adv CS: Theory
+CS 407\Adv CS: Hard/Soft
+CS 506\Adv CS: Hard/Soft
+CS 536\Adv CS: Hard/Soft
+CS 537\Adv CS: Hard/Soft
+CS 538\Adv CS: Hard/Soft
+CS 552\Adv CS: Hard/Soft
+CS 564\Adv CS: Hard/Soft
+CS 640\Adv CS: Hard/Soft
+CS 642\Adv CS: Hard/Soft
+CS 412\Adv CS: Apps
+CS 416\Adv CS: Apps
+CS 425\Adv CS: Apps
+CS 513\Adv CS: Apps
+CS 514\Adv CS: Apps
+CS 515\Adv CS: Apps
+CS 525\Adv CS: Apps
+CS 534\Adv CS: Apps
+CS 540\Adv CS: Apps
+CS 545\Adv CS: Apps
+CS 547\Adv CS: Apps
+CS 559\Adv CS: Apps
+CS 570\Adv CS: Apps
