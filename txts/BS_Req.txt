@@ -4,7 +4,7 @@ b\na\na\ge\1
 e\na\>=3\ge\1
 q\na\na\ge\1
 r\na\na\ge\1
-I||A\CS ###||Math ###||Stat ###\>=3\L\2
+I||A\CS||Math||Stat\>=3\L\2
 L||H||X||Z\na\12\B\na
 L\na\6\B\na
 S||W||Y||Z\na\12\B\na
