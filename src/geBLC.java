@@ -1,5 +1,5 @@
 import java.util.*;
-//This is a test commit- Andrew Nguyen
+
 /**
  * The geBLC class represents a single class that keeps track of its
  * title and geBLC code in terms of its components.
