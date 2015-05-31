@@ -6,7 +6,7 @@ public class BSParseObject {
 
 	private String code;       //geBLC code letter
 	private String classReq;   //class subject requirement
-	private String creditReq;  //credit number requirement
+	private String creditReq;  //minimum credit number requirement
 	private String type;       //type of geBLC code letter
 	private String numClasses; //number of classes needed
 	
@@ -15,7 +15,7 @@ public class BSParseObject {
 	 * 
 	 * @param code The geBLC code letter.
 	 * @param classReq The class subject requirement.
-	 * @param creditReq The credit number requirement.
+	 * @param creditReq The minimum credit number requirement.
 	 * @param type The type of geBLC code letter.
 	 * @param numClasses The number of classes needed.
 	 */
@@ -55,16 +55,17 @@ public class BSParseObject {
 	}
 	
 	/**
-     * Returns the credit number requirement.
+     * Returns the minimum credit number requirement.
      * Throws a NullPointerException if element does not exist.
      * 
-     * @return The credit number requirement.
+     * @return The minimum credit number requirement.
      * @throws NullPointerException if element does not exist.
      */
-	public String getCreditReq() throws NullPointerException {
+	public int getCreditReq() throws NullPointerException {
 		if (creditReq.equals("na")) 
     		throw new NullPointerException();
-		return creditReq;
+		int intCredReq = Integer.parseInt(creditReq);
+		return intCredReq;
 	}
 	
 	/**
@@ -87,9 +88,10 @@ public class BSParseObject {
      * @return The number of classes needed.
      * @throws NullPointerException if element does not exist.
      */
-	public String getNumClasses() throws NullPointerException {
+	public int getNumClasses() throws NullPointerException {
 		if (numClasses.equals("na")) 
     		throw new NullPointerException();
-		return numClasses;
+		int intNumClasses = Integer.parseInt(numClasses);
+		return intNumClasses;
 	}
 }

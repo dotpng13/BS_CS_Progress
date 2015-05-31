@@ -1,16 +1,16 @@
-//Code\Class ID Req\Credit Req\Code Type\# of Classes
-a\na\na\ge\1
-b\na\na\ge\1
-e\na\>=3\ge\1
-q\na\na\ge\1
-r\na\na\ge\1
-I||A\CS||Math||Stat\>=3\L\2
-L||H||X||Z\na\12\B\na
-L\na\6\B\na
-S||W||Y||Z\na\12\B\na
-P\na\6\B\na
-B\na\6\B\na
-C\na\108\C\na
-I||A||D\na\60\na
-na\na\120\na\na
+//Code\\Class ID Req\\Credit Req\\Code Type\\# of Classes
+a\\na\\na\\ge\\1
+b\\na\\na\\ge\\1
+e\\na\\3\\ge\\1
+q\\na\\na\\ge\\1
+r\\na\\na\\ge\\1
+I||A\\CS||Math||Stat\\3\\L\\2
+L||H||X||Z\\na\\12\\B\\na
+L\\na\\6\\B\\na
+S||W||Y||Z\\na\\12\\B\\na
+P\\na\\6\\B\\na
+B\\na\\6\\B\\na
+C\\na\\108\\C\\na
+I||A||D\\na\\60\\na
+na\\na\\120\\na\\na
 
